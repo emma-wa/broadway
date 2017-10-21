@@ -2,10 +2,10 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
-/*
+
 .top {
-  background-image:url("resources/media/flatiron.jpg");
-} */
+  background-image:url("/resources/media/flatiron.jpg");
+}
 
 .top h1 {
   color: red;
@@ -35,12 +35,9 @@ h3 {
 p {
   font-size: 14px;
 }
-/*
-.break {
-  background-image:url("resources/media/identify.svg");
-} */
 
-.break h3 {
+.break {
+  background-image:url("/resources/media/identify.svg");
   color: red;
 }
 
