@@ -5,7 +5,7 @@ body {
 
 .top {
   color: white;
-  background-image:url("resources/media/flatiron.png");
+  background-image:url("resources/media/flatiron.JPEG");
 }
 
 .top a {
@@ -35,7 +35,7 @@ p {
 }
 
 .break {
-  background-image:url("resources/media/flatiron.png");
+  background-image:url("resources/media/flatiron.JPEG");
   color: white;
 }
 
