@@ -5,7 +5,7 @@ body {
 
 .top {
   color: white;
-  background-image: url("broadway/resources/media/the-flatiron-building.png");
+  background-image:url("resources/media/flatiron.png");
 }
 
 .top a {
@@ -35,7 +35,7 @@ p {
 }
 
 .break {
-  background-image: url("broadway/resources/media/the-flatiron-building.png");
+  background-image:url("resources/media/flatiron.png");
   color: white;
 }
 
