@@ -4,7 +4,7 @@ body {
 }
 
 .top {
-  background-image:url("resources/media/flatiron.JPEG");
+  background-image:url("resources/media/flatiron.jpg");
   background-size:cover;
 }
 
@@ -38,7 +38,7 @@ p {
 }
 
 .break {
-  background-image:url("resources/media/flatiron.JPEG");
+  background-image:url("resources/media/flatiron.jpg");
   background-size:cover;
 }
 
