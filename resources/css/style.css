@@ -4,10 +4,13 @@ body {
 }
 
 .top {
-  color: white;
   background-image:url("resources/media/flatiron.JPEG");
+  background-size:cover;
 }
 
+.top h1 {
+  color: white;
+}
 .top a {
   color: white;
   font-weight: normal;
@@ -36,6 +39,10 @@ p {
 
 .break {
   background-image:url("resources/media/flatiron.JPEG");
+  background-size:cover;
+}
+
+.break h3 {
   color: white;
 }
 
