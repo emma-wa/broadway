@@ -5,26 +5,28 @@ body {
 
 .top {
   color: white;
-  background-image: url("resources/media/the-flatiron-building.png");
+  background-image:url("/Users/emmawallerstein/Desktop/HTML_Practice/Projects/test/git_practice/emma-wa.github.io/broadway/resources/media/the-flatiron-building.png");
+}
+
+.top a {
+  color: white;
+  font-weight: normal;
+  font-size: 18px;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
 }
 
 h1 {
   font-size: 70px;
 }
 
-.top nav {
-  font-size: 18px;
-}
-
-#process, h4, #breakbar, h1 {
-  font-weight: bold;
-}
-
-#process {
+h2 {
   font-size: 32px;
 }
 
-h4 {
+h3 {
   font-size: 23px;
 }
 
@@ -32,15 +34,20 @@ p {
   font-size: 14px;
 }
 
-#breakbar {
+.break {
+  background-image:url("/Users/emmawallerstein/Desktop/HTML_Practice/Projects/test/git_practice/emma-wa.github.io/broadway/resources/media/the-flatiron-building.png");
   color: white;
-  background-image: url("resources/media/the-flatiron-building.png");
 }
 
 footer {
   text-align: left;
   color: white;
   background-color: dimgray;
+}
+
+footer a {
+  color: white;
+  font-size: 14px;
 }
 
 .copyright {
