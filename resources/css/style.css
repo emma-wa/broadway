@@ -5,7 +5,7 @@ body {
 
 .top {
   color: white;
-  background-image:url("/Users/emmawallerstein/Desktop/HTML_Practice/Projects/test/git_practice/emma-wa.github.io/broadway/resources/media/the-flatiron-building.png");
+  background-image:url("resources/media/the-flatiron-building.png");
 }
 
 .top a {
@@ -35,7 +35,7 @@ p {
 }
 
 .break {
-  background-image:url("/Users/emmawallerstein/Desktop/HTML_Practice/Projects/test/git_practice/emma-wa.github.io/broadway/resources/media/the-flatiron-building.png");
+  background-image:url("resources/media/the-flatiron-building.png");
   color: white;
 }
 
