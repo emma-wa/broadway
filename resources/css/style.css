@@ -3,7 +3,7 @@ body {
   font-family: Helvetica;
 }
 /*
-#top {
+.top {
   background-image:url("resources/media/flatiron.jpg");
 } */
 
@@ -36,11 +36,11 @@ p {
   font-size: 14px;
 }
 /*
-#break {
+.break {
   background-image:url("resources/media/identify.svg");
 } */
 
-#break h3 {
+.break h3 {
   color: red;
 }
 
