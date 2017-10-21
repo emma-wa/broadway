@@ -3,7 +3,7 @@ body {
   font-family: Helvetica;
 }
 
-.top {
+.top, .break {
   background-image:url("/broadway/resources/media/flatiron.jpg");
   color: white;
 }
@@ -32,11 +32,6 @@ h3 {
 
 p {
   font-size: 14px;
-}
-
-.break {
-  background-image:url("/broadway/resources/media/identify.jpg");
-  color: white;
 }
 
 footer {
