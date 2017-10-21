@@ -5,11 +5,10 @@ body {
 
 .top {
   background-image:url("resources/media/flatiron.jpg");
-  background-size:cover;
 }
 
 .top h1 {
-  color: white;
+  color: red;
 }
 .top a {
   color: white;
@@ -38,12 +37,11 @@ p {
 }
 
 .break {
-  background-image:url("resources/media/flatiron.jpg");
-  background-size:cover;
+  background-image:url("resources/media/identify.svg");
 }
 
 .break h3 {
-  color: white;
+  color: red;
 }
 
 footer {
