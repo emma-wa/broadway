@@ -8,7 +8,7 @@ body {
 }
 
 .top h1 {
-  color: red;
+  color: blue;
 }
 .top a {
   color: white;
@@ -38,7 +38,10 @@ p {
 
 .break {
   background-image:url("/resources/media/identify.svg");
-  color: red;
+}
+
+.break {
+  color: blue;
 }
 
 footer {
